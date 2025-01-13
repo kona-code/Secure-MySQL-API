@@ -1,0 +1,3 @@
+@echo off
+echo Starting the API...
+npx ts-node src/index.ts
