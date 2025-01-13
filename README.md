@@ -62,6 +62,11 @@ to start the API.
 *`Code was not tested on a Linux based operating system.`*
 
 
+## Implementation
+
+You can see development implementation examples (C# and C++) [here](https://archive.nightvoid.com/github/Implementation%20example/Secure%20MySQL%20API/).
+
+
 ## Authors
 
 - [`@M1chaelJackson`](https://github.com/M1chaelJackson)
