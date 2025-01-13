@@ -5,7 +5,7 @@ This TypeScript API serves as a secure bridge for querying MySQL databases.
 
 It uses mysql2 for database interaction and supports parameterized queries to prevent SQL injection attacks. API key authentication ensures that only authorized clients can access the API. Optional advanced security features, such as rate limiting, IP blocking, sensitive data masking, and error monitoring with tools like Sentry, can be easily enabled to protect against abuse and unauthorized access.
 
-Designed for scalability, the API leverages a connection pool to efficiently handle multiple requests. It is configured using environment variables stored in a .env file for flexibility and ease of deployment. The API is ready for production, with optional HTTPS support to ensure secure communication over the network."
+Designed for scalability, the API leverages a connection pool to efficiently handle multiple requests. It is configured using environment variables stored in a .env file for flexibility and ease of deployment. The API is ready for production, with optional HTTPS support to ensure secure communication over the network.
 ## Installation
 
 ### (Optional) Edit the source code
