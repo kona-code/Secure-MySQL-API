@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Installing dependencies..."
 npm install express mysql2 dotenv
 npm install express-rate-limit
