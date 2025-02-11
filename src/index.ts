@@ -143,8 +143,8 @@ app.listen(port, () => {
 
 
 
-// Developed by M1chael Jackson, licensed under the MIT License.
+// Developed by Kona Code, licensed under the MIT License.
 // Links: 
 // NightVoid Entertainment: https://nightvoid.com/
-// M1chael Jackson: https://m1chaeljackson.com/
-// Contact M1chael Jackson: mj@nightvoid.com
+// Kona Code: https://konacode.com/
+// Contact me: kona@nightvoid.com
