@@ -69,5 +69,5 @@ You can see development implementation examples (C# and C++) [here](https://arch
 
 ## Authors
 
-- [`@M1chaelJackson`](https://github.com/M1chaelJackson)
+- [`@Kona Code`](https://github.com/kona-code)
 
